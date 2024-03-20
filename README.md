@@ -15,8 +15,13 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+Logic gates are electronic circuits which perform logical functions on one or more inputs to produce one output.
 
-**Logic Diagram**
+AND gate :The AND gate is an electronic circuit that gives a high output (1) only if all its inputs are high. A dot (.) is used to show the AND operation i.e. A.B or can be written as AB Y= A.B
+
+OR gate : The OR gate is an electronic circuit that gives a high output (1) if one or more of its inputs are high. A plus (+) is used to show the OR operation.Y= A+B
+
+NOT gate : A NOT gate is a logic gate that inverts the digital input signal. For this reason, a NOT gate is sometimes is referred to as an inverter
 
 **Procedure**
 
@@ -38,13 +43,14 @@ Hardware – PCs, Cyclone II , USB flasher
 Developed by:Salini .A RegisterNumber:*/ 212223220091
 
 
-**RTL realization**
 ![Screenshot 2024-03-20 202730](https://github.com/salinianbzhgan/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742862/8c3a8126-ff4c-4327-a815-fe839b9612b2)
 
 **Output:**
-![Screenshot 2024-03-20 202747](https://github.com/salinianbzhgan/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742862/43eecb59-50db-4625-a740-4868eaa402d7)
-
 **RTL**
+**F1**
+
+![Screenshot 2024-03-20 202747](https://github.com/salinianbzhgan/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742862/43eecb59-50db-4625-a740-4868eaa402d7)
+**F2**
 ![Screenshot 2024-03-20 202754](https://github.com/salinianbzhgan/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742862/bae49e4d-aa75-4adc-be4d-addc6533d1b3)
 
 **Timing Diagram**
