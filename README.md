@@ -53,8 +53,13 @@ Developed by:Salini .A RegisterNumber:*/ 212223220091
 **F2**
 ![Screenshot 2024-03-20 202754](https://github.com/salinianbzhgan/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742862/bae49e4d-aa75-4adc-be4d-addc6533d1b3)
 
-**Timing Diagram**
+**TRUTH TABLE**
 ![Screenshot 2024-03-20 202803](https://github.com/salinianbzhgan/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742862/43b59338-a714-48c5-ab7f-88f91f9a484c)
+
+**Timing Diagram**
+
+![Screenshot 2024-03-20 202813](https://github.com/salinianbzhgan/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742862/4c89a72a-164e-42ff-ae55-431b8e494b9e)
+
 
 
 **Result:**
